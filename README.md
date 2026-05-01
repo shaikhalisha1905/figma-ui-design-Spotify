@@ -14,3 +14,5 @@ It focuses on clean layout, user-friendly interface, and attractive visuals.
 
 ## 🚀 Tools Used
 - Figma
+
+Note: This is a non-commercial project created for educational purposes only.
